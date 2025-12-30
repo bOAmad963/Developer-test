@@ -9,12 +9,10 @@
     <div class="absolute top-[30%] left-[4%] w-[30%]">
       <h1 class="text-2xl font-bold inline">SALE</h1>
       <br />
-      <br />
       <span class="font-bold text-[10px]
       xl:text-sm">
         ACCESS A LIMITED SELECTION<br /> WITH UP TO 70% OFF
       </span>
-      <br />
       <br />
       <NuxtLink  class="relative flex">
         <img src="/Icons/Bottun.png" alt="" class="w-[60%]">
