@@ -34,13 +34,13 @@
       flex items-center xl:ml-0">
         <div class="xl:flex relative">
           <input placeholder="Search..." type="text" class="bg-yellow-200 py-2 pl-2 xl:w-70">
-          <img src="/icons/search.png" alt="" class="w-6 absolute top-2 right-2 cursor-pointer">  
+          <img src="/Icons/Search.png" alt="" class="w-6 absolute top-2 right-2 cursor-pointer">  
         </div >
-        <img src="/icons/login.png" alt="" class="w-6
+        <img src="/Icons/Login.png" alt="" class="w-6
         xl:w-6 m-4 cursor-pointer">
-        <img src="/icons/heart.png" alt="" class="w-6
+        <img src="/Icons/heart.png" alt="" class="w-6
         xl:w-6 m-4 cursor-pointer">
-        <img src="/icons/cart.png" alt="" class="w-6
+        <img src="/Icons/Cart.png" alt="" class="w-6
         xl:w-6 m-4 cursor-pointer">
       </div>
     </div>
