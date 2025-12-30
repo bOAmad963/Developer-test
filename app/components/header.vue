@@ -4,7 +4,7 @@
 <template>
     <div class="xl:flex xl:justify-between xl:items-end xl:ml-8 xl:mr-8">
       <div>
-        <img src="/icons/DEVELOPER TEST - Logo Black.png" alt="" class="w-25
+        <img src="/icons/Black.png" alt="" class="w-25
         xl:w-25">
       </div>
       <div class="xl:flex xl:justify-between xl:items-center">
