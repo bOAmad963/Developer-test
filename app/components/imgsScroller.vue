@@ -10,14 +10,12 @@
       <h1 class="font-bold inline
       xl:text-2xl">SALE</h1>
       <br />
-      <span class="font-bold text-[10px] leading-0.5
-      xl:text-sm xl:leading-1.5 mb-4">
-        ACCESS A LIMITED SELECTION WITH UP TO 70% OFF
-      </span>
-      <br />
+      <p class="leading-6">ACCESS A LIMITED</p>
+      <p class="leading-6">SELECTION WITH</p>
+      <p class="leading-6">UP TO 70% OFF</p>
       <NuxtLink  class="relative flex">
         <img src="/Icons/Bottun.png" alt="" class="w-[75%]">
-        <span class="text-white font-bold absolute top-[15%] left-[10%] text-[5px]
+        <span class="text-white font-bold absolute top-[15%] left-[10%] text-[8px]
         xl:text-xl">SHOP NOW</span>
       </NuxtLink>
     </div>
