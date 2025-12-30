@@ -12,12 +12,12 @@
       <br />
       <span class="font-bold text-[10px] leading-1
       xl:text-sm xl:leading-1.5 mb-4">
-        ACCESS A LIMITED SELECTION<br /> WITH UP TO 70% OFF
+        ACCESS A LIMITED SELECTION WITH UP TO 70% OFF
       </span>
       <br />
       <NuxtLink  class="relative flex">
-        <img src="/Icons/Bottun.png" alt="" class="w-[60%]">
-        <span class="text-white font-bold absolute top-[25%] left-[5%] text-[10px]
+        <img src="/Icons/Bottun.png" alt="" class="w-[75%]">
+        <span class="text-white font-bold absolute top-[30%] left-[10%] text-[10px]
         xl:text-xl">SHOP NOW</span>
       </NuxtLink>
     </div>
