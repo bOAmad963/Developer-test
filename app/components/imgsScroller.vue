@@ -5,7 +5,7 @@
 
 <template>
   <div class="relative">
-    <img src="/images/Header.jpg">
+    <img src="/Images/Header.jpg">
     <div class="absolute top-[30%] left-[4%]">
       <h1 class="text-2xl font-bold inline">SALE</h1>
       <br />
@@ -17,7 +17,7 @@
       <br />
       <br />
       <NuxtLink  class="relative flex">
-        <img src="/icons/Bottun.png" alt="" class="w-[60%]">
+        <img src="/Icons/Bottun.png" alt="" class="w-[60%]">
         <span class="text-white font-bold absolute top-4.5 left-7 text-md">SHOP NOW</span>
       </NuxtLink>
     </div>
