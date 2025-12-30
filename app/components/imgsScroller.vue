@@ -10,7 +10,7 @@
       <h1 class="font-bold inline
       xl:text-2xl">SALE</h1>
       <br />
-      <span class="font-bold text-[10px] leading-1.25
+      <span class="font-bold text-[10px] leading-1
       xl:text-sm xl:leading-1.5 mb-4">
         ACCESS A LIMITED SELECTION<br /> WITH UP TO 70% OFF
       </span>
