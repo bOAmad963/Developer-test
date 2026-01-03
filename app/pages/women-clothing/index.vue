@@ -13,7 +13,7 @@
 <template>
   <title>Women clothing</title>
   <div class="flex justify-center mx-10 mb-10">
-    <div class="grid grid-cols-3 gap-25">
+    <div class="grid grid-cols-3 gap-[5%]">
       <div v-for="(img, index) in imgs">
         <card :img="img" :goTo="`/women-clothing/${routes[index]}`" :product="routes[index]" />
       </div>

@@ -8,7 +8,8 @@
         xl:w-25">
       </div>
       <div class="xl:flex xl:justify-between xl:items-center">
-        <div class="xl:mr-15">
+        <div class="mb-4
+        xl:mr-15">
         <NuxtLink to="/electronics" class=" text-[14px] p-4 hover:bg-slate-200
         xl:p-6 xl:font-bold xl:text-sm">
           ELECTRONICS
