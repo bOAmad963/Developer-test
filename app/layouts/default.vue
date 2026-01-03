@@ -6,4 +6,5 @@
   <NavBar /> 
   <Header :class="{'blur-[3px]': isSideBarOpen}" />
   <slot />
+  <AFooter />
 </template>

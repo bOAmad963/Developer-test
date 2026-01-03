@@ -2,33 +2,29 @@
 </script>
 
 <template>
-    <div class="xl:flex xl:justify-between xl:items-end xl:ml-8 xl:mr-8">
+    <div class="xl:flex xl:justify-between xl:items-end xl:ml-8 xl:mr-8 xl:mb-10">
       <div>
         <img src="/Icons/Black.png" alt="" class="w-25
         xl:w-25">
       </div>
       <div class="xl:flex xl:justify-between xl:items-center">
         <div class="xl:mr-15">
-        <button class=" text-[14px] p-4 hover:bg-slate-200
+        <NuxtLink to="/electronics" class=" text-[14px] p-4 hover:bg-slate-200
         xl:p-6 xl:font-bold xl:text-sm">
           ELECTRONICS
-        </button class=" text-[14px] p-4 hover:bg-slate-200
-        xl:p-6 xl:font-bold xl:text-sm">
-        <button class=" text-[14px] p-4 hover:bg-slate-200
+        </NuxtLink>
+        <NuxtLink to="/jewelry" class=" text-[14px] p-4 hover:bg-slate-200
         xl:p-6 xl:font-bold xl:text-sm">
           JEWLERY
-        </button class=" text-[14px] p-4 hover:bg-slate-200
-        xl:p-6 xl:font-bold xl:text-sm">
-        <button class=" text-[14px] p-4 hover:bg-slate-200
+        </NuxtLink>
+        <NuxtLink to="/men-clothing" class=" text-[14px] p-4 hover:bg-slate-200
         xl:p-6 xl:font-bold xl:text-sm">
           MEN CLOTHING
-        </button class=" text-[14px] p-4 hover:bg-slate-200
-        xl:p-6 xl:font-bold xl:text-sm">
-        <button class=" text-[14px] p-4 hover:bg-slate-200
+        </NuxtLink>
+        <NuxtLink to="/women-clothing" class=" text-[14px] p-4 hover:bg-slate-200
         xl:p-6 xl:font-bold xl:text-sm">
           WOMEN CLOTHING
-        </button class=" text-[14px] p-4 hover:bg-slate-200
-        xl:p-6 xl:font-bold xl:text-sm">
+        </NuxtLink>
       </div>
       <div class="ml-3
       flex items-center xl:ml-0">
@@ -40,8 +36,10 @@
         xl:w-6 m-4 cursor-pointer">
         <img src="/Icons/heart.png" alt="" class="w-6
         xl:w-6 m-4 cursor-pointer">
-        <img src="/Icons/Cart.png" alt="" class="w-6
-        xl:w-6 m-4 cursor-pointer">
+        <NuxtLink to="/cart">
+          <img src="/Icons/Cart.png" alt="" class="w-6
+          xl:w-6 m-4 cursor-pointer">
+        </NuxtLink>
       </div>
     </div>
   </div>

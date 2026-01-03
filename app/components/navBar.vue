@@ -9,7 +9,7 @@
 </script>
 
 <template>
-  <Icon @click="openSideBar" name="prime:align-justify" size="60" class="cursor-pointer fixed top-4 right-4
+  <Icon @click="openSideBar" name="prime:align-justify" size="40" class="cursor-pointer fixed top-4 right-4 z-100
   xl:hidden" />
 
   <nav ref="sideBar" id="sideBar" class=" border w-50 h-80 fixed top-0 right-0 transition-[400ms] translate-x-50 bg-amber-50 z-1000 
@@ -18,7 +18,7 @@
     xl:flex xl:justify-end xl:mt-6">
       <li class="flex justify-center
       xl:block">
-        <NuxtLink class="p-3 w-full flex justify-center hover:bg-amber-50
+        <NuxtLink to="/" class="p-3 w-full flex justify-center hover:bg-amber-50
         xl:p-6 cursor-pointer xl:hover:bg-slate-200 xl:inline">
           Home
        </NuxtLink class="
