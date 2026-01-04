@@ -13,6 +13,7 @@
     addToCartBtn.value.addEventListener('click', () => {
     addToCartBtn.value.textContent = '✔'
     addToCart(props.product)
+    addToCartBtn.value.disabled = true
     })
   })
 </script>
